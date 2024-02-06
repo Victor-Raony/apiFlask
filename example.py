@@ -1,4 +1,0 @@
-
-
-def myfunc():
-    print('Ola')
